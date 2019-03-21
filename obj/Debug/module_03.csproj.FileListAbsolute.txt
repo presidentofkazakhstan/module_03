@@ -1,0 +1,7 @@
+C:\Users\Windows10\source\repos\module_03\module_03\bin\Debug\module_03.exe.config
+C:\Users\Windows10\source\repos\module_03\module_03\bin\Debug\module_03.exe
+C:\Users\Windows10\source\repos\module_03\module_03\bin\Debug\module_03.pdb
+C:\Users\Windows10\source\repos\module_03\module_03\obj\Debug\module_03.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\module_03\module_03\obj\Debug\module_03.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\module_03\module_03\obj\Debug\module_03.exe
+C:\Users\Windows10\source\repos\module_03\module_03\obj\Debug\module_03.pdb
